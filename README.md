@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
-- ⚡ Fun fact: **I did a interview about the year 2021 of the Canada national soccer team and my passion for Canadian soccer for the biggest TV Chanell in Brazil.**
+- ⚡ Fun fact: **I did a interview about the year 2021 of the Canada men's national soccer team and my passion for Canadian soccer for the biggest TV Chanell in Brazil.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
