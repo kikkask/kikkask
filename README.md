@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @kikkask</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, Java, Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
