@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Power BI**
 
-- 💬 Ask me about **Excel, Delphi, Data Analysis**
+- 💬 Ask me about **Excel, Delphi, SQL, Data Analysis**
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
