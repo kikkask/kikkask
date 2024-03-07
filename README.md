@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Brito</h1>
 <h3 align="center">This is my Data Science repository!</h3>
 
-- 🌱 I’m currently learning **Python, Power Apps**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Excel, Power BI, Delphi, SQL, Data Analysis, Salesforce**
+- 💬 Ask me about **Excel, Power BI, Delphi, SQL, Data Analysis, Salesforce, Power Apps**
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
