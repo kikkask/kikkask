@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Brito</h1>
-<h3 align="center">This is my Data Science repository!</h3>
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Excel, Power BI, Delphi, SQL, Data Analysis, Salesforce, Power Apps**
+<h3 align="center">Welcome to my Python library!</h3>
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
-- ⚡ Fun fact **I did a interview about the year 2021 of the Canada national soccer team and my passion for Canadian soccer for the biggest network in Brazil.**
+- ⚡ Fun fact **I did a interview about the year 2021 of the Canada national soccer team and my passion for Canadian soccer for the biggest TV channel in Brazil.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
