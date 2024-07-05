@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Brito</h1>
-<h3 align="center">Welcome to my Python library!</h3>
+<h3 align="center">Welcome to my Python portfolio!</h3>
 
 - 📫 How to reach me **sirbritolucas@gmail.com**
 
